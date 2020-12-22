@@ -5,7 +5,7 @@
 
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/37/6b/9e376b3af2944d9a9d656ef239e29964.gif" width = 300/>
 
-At the moment, my main interests are:
+My main interests are:
 - :bar_chart: Data science
 - :chart_with_upwards_trend: Stock markets
 - :computer: Predictive analytics & AI
