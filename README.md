@@ -3,6 +3,12 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/williamxu7)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yihangxu/)
 
+At the moment, my main interests are:
+- :bar_chart: Data science
+- :chart_with_upwards_trend: Stock markets
+- :art: Painting
+
+
 <hr>
 
 <p align="center">
