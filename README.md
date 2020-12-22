@@ -8,6 +8,7 @@
 At the moment, my main interests are:
 - :bar_chart: Data science
 - :chart_with_upwards_trend: Stock markets
+- :computer: Predictive analytics and artificial intelligence
 - :art: Painting
 
 
