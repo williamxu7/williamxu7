@@ -3,6 +3,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/williamxu7)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yihangxu/)
 
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/37/6b/9e376b3af2944d9a9d656ef239e29964.gif" width = 300/>
+
 At the moment, my main interests are:
 - :bar_chart: Data science
 - :chart_with_upwards_trend: Stock markets
