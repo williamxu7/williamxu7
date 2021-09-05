@@ -7,6 +7,7 @@
 
 My main interests are:
 - :bar_chart: Data science
+- :milky_way: Machine learning & deep learning
 - :chart_with_upwards_trend: Stock markets
 - :computer: Predictive analytics & AI
 - :art: Painting
